@@ -11,6 +11,66 @@
       "nombre": "Sudadera de Champions 2021",
       "precio": "70$",
       "imagen": "https://images.contentstack.io/v3/assets/blt5bbf09732528de36/bltcb6a25320b26749a/619c1ba09248f010ab79513a/2021_VCTChamps_Promo_ecomm_Black-Hoodie_Front_2560x2560.png"
+    },
+    {
+      "nombre": "Figura de Kayn",
+      "precio": "50$",
+      "imagen": "https://images.contentstack.io/v3/assets/blt5bbf09732528de36/blt00619805d4d0be84/6217c94eb6471b5f9d4a5654/2022_WKO-Figures_Kayn_ecomm_image_01.png",
+      "id": "GaT2hHP"
+    },
+    {
+      "nombre": "Figura de poro blanco",
+      "precio": "45$",
+      "imagen": "https://images.contentstack.io/v3/assets/blt5bbf09732528de36/blteacc906badf4647c/64f8e18aa8cf8b14723de4fd/Poro_Figure_Ecomm_Image_1.png",
+      "id": "29iZ8pE"
+    },
+    {
+      "nombre": "Figura de Poro abeja",
+      "precio": "50$",
+      "imagen": "https://images.contentstack.io/v3/assets/blt5bbf09732528de36/blt76d32e4798675863/641ccd2b49e8cc4fc47ba7a1/HIF-Bee-Figure_Thumbnail_1.png",
+      "id": "C9T0F7d"
+    },
+    {
+      "nombre": "Figura de Annieversario",
+      "precio": "50$",
+      "imagen": "https://images.contentstack.io/v3/assets/blt5bbf09732528de36/bltee4cb4f0dd92d041/64dbdb89ff472c2a0bf0c573/Ecomm-Image-Promo_Vault_ecomm_image_01.png",
+      "id": "vp-0CjX"
+    },
+    {
+      "nombre": "Figura de Yuumi",
+      "precio": "35$",
+      "imagen": "https://images.contentstack.io/v3/assets/blt5bbf09732528de36/blt593a7eb668bcdbf0/65b1aaebebfd037e3d3cfc44/Heartseeker_Yuumi_Ruby_Chroma_Ecomm_Image_1.png",
+      "id": "TgzenJS"
+    },
+    {
+      "nombre": "Figura de Warwick",
+      "precio": "50$",
+      "imagen": "https://images.contentstack.io/v3/assets/blt5bbf09732528de36/blt65d0f9b1e7f6569d/6217c998b6471b5f9d4a5658/2022_WKO-Figures_Warwick_ecomm_image_01.png",
+      "id": "PuFMPlL"
+    },
+    {
+      "nombre": "Figura de acción APEX ashe",
+      "precio": "150$",
+      "imagen": "https://images.contentstack.io/v3/assets/blt5bbf09732528de36/blt98802f1c7abea6a7/62f277aa42380217691bf692/2022_Promo_APEX-Ashe_Ecomm_thumbnail_image01.png",
+      "id": "Qi1Q7Ri"
+    },
+    {
+      "nombre": "Figura XL de Mordekaiser",
+      "precio": "90$",
+      "imagen": "https://images.contentstack.io/v3/assets/blt5bbf09732528de36/blt828df695645bb4d3/613025ad4d39656a33b0b6c2/Mordekaiser_S4_Fig-Aug_2021-Ecomm-2560x2560_1.png",
+      "id": "GHCOYI3"
+    },
+    {
+      "nombre": "Peluche de Bigotitos",
+      "precio": "25$",
+      "imagen": "https://images.contentstack.io/v3/assets/blt5bbf09732528de36/blt5fe1f58fb35a20a6/6557bdff52b29b0fd85bd9b5/TFT_Set_10_Whiskers_Plush_Ecomm_Image_1.png",
+      "id": "yTdWV6H"
+    },
+    {
+      "nombre": "Figura de Kai'Sa",
+      "precio": "125$",
+      "imagen": "https://images.contentstack.io/v3/assets/blt5bbf09732528de36/blt732d1f8bdf4fbd05/642f243cba137c11cf0599f1/APEX-Kaisa_Front_Shot_Thumb_1.png",
+      "id": "yIPA2ZH"
     }
   ]
 }
